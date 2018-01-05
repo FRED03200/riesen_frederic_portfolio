@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"contact"
+			],
+			[
+				"contactf",
+				"contactform"
+			],
+			[
+				"c",
+				"contactform"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"su",
+				"submit\t.submit()"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"before",
+				"beforeTransition"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"getE",
+				"getElementsByClassName"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"p",
+				"parseInt"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"m",
+				"mark\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 86.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/portfolio"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/portfolio/.git/config",
+		"/C/wamp64/www/portfolio/.env",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/ContactController.php",
+		"/C/wamp64/www/portfolio/app/Mail/Contact.php",
+		"/C/wamp64/www/portfolio/config/mail.php",
+		"/C/wamp64/www/portfolio/resources/views/emails/contact.blade.php",
+		"/C/wamp64/www/portfolio/storage/logs/laravel.log",
+		"/C/wamp64/www/portfolio/resources/views/myachievements.blade.php",
+		"/C/wamp64/www/portfolio/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factory.php",
+		"/C/wamp64/www/portfolio/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/C/wamp64/www/portfolio/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/wamp64/www/portfolio/resources/views/contactform.blade.php",
+		"/C/wamp64/www/portfolio/app/TableContactForm.php",
+		"/C/wamp64/www/portfolio/routes/web.php",
+		"/C/wamp64/www/portfolio/storage/framework/views/0c9a9a4729086b4ace7c92c2786d0435f2a7a058.php",
+		"/C/wamp64/www/portfolio/tests/CreatesApplication.php",
+		"/C/wamp64/www/portfolio/database/seeds/DatabaseSeeder.php",
+		"/C/wamp64/www/portfolio/public/index.php",
+		"/C/Users/UTILISATEUR/Downloads/wordpress/wp-content/themes/twentyseventeen/header.php",
+		"/C/wamp64/www/wordpress/wp-admin/admin-functions.php",
+		"/C/wamp64/www/wordpress/wp-content/plugins/aformac/aformac.php",
+		"/C/wamp64/www/wordpress/wp-admin/images/align-center-2x.png",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/index.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/single.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/index.html",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/header.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/functions.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/inc/shortcode.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/sidebar.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyfifteen/inc/shortcode.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/shortcode.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/contact.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyfifteen/functions.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/footer.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/hearder.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/style.css",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/css/.AppleDouble/main.css",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/css/main.css",
+		"/C/wamp64/www/wordpress/wp-content/index.php",
+		"/C/wamp64/www/wordpress/wp-admin/admin.php",
+		"/C/wamp64/www/wordpress/wp-admin/install.php",
+		"/C/wamp64/www/wordpress/wp-admin/comment.php",
+		"/C/wamp64/www/wordpress/index.php",
+		"/C/wamp64/www/wordpress/wp-admin/index.php",
+		"/C/wamp64/www/wordpress/wp-admin/themes.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/montheme2/index.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyseventeen/mapage.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyseventeen/index.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/montheme/style.css",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyfifteen/style.css",
+		"/C/wamp64/www/wordpress/wp-content/themes/montheme/index.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/montheme2/style.css",
+		"/C/wamp64/www/wordpress/wp-content/themes/exo/css/.AppleDouble/.Parent",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyfifteen/content.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyfifteen/rtl.css",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyseventeen/functions.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyseventeen/page - Copie.php",
+		"/C/wamp64/www/wordpress/wp-content/themes/twentyseventeen/page.php",
+		"/C/wamp64/www/wordpress/wp-mail.php",
+		"/C/wamp64/www/wordpress/wp-login.php",
+		"/C/wamp64/www/wordpress/wp-config.php",
+		"/C/wamp64/www/portfolio/app/TableTraining.php",
+		"/C/wamp64/www/portfolio/app/User.php",
+		"/C/wamp64/www/portfolio/resources/views/template.blade.php",
+		"/C/wamp64/www/portfolio/public/web.config",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/TrainingController.php",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/WelcomeController.php",
+		"/C/wamp64/www/portfolio/config/filesystems.php",
+		"/C/wamp64/www/defif1/index.php",
+		"/C/wamp64/www/defif1/style.css",
+		"/C/wamp64/www/projet3/index.php",
+		"/C/wamp64/www/projet2/index.php",
+		"/C/wamp64/www/projet1/index.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/routes/defit1",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/routes/web.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/resources/views/test.blade.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/app/Http/Controllers/ApiController.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/resources/views/template.blade.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/resources/views/accueil.blade.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/public/css/style.css",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/resources/assets/js/bootstrap.js",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/resources/views/musee.blade.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/public/img",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/resources/views/departement.blade.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/resources/views/welcome.blade.php",
+		"/C/wamp64/www/projetgroupe_dataapi/projet_dataapi/.env",
+		"/C/wamp64/www/portfolio/app/TableMyAchievements.php",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/AchievementsController.php",
+		"/C/wamp64/www/portfolio/app/TableMySkills.php",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/SkillsController.php",
+		"/C/wamp64/www/portfolio/resources/views/myskills.blade.php",
+		"/C/wamp64/www/portfolio/resources/views/mytraining.blade.php",
+		"/C/wamp64/www/portfolio/resources/views/welcome.blade.php",
+		"/C/wamp64/www/portfolio/public/img/image_720.png",
+		"/C/wamp64/www/portfolio/public/img/Capture6.PNG",
+		"/C/wamp64/www/portfolio/public/img/Capture.PNG",
+		"/C/wamp64/www/portfolio/public/img/Capture2.PNG",
+		"/C/wamp64/www/portfolio/public/img/Capture3.PNG",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/portfolio/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/portfolio/public/css/style.css",
+		"/C/wamp64/www/portfolio/resources/assets/sass/_variables.scss",
+		"/C/wamp64/www/portfolio/resources/assets/sass/app.scss",
+		"/C/wamp64/www/portfolio/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/projetportfolio/myachievements.php",
+		"/C/wamp64/www/projetportfolio/js/script.js",
+		"/C/wamp64/www/projetportfolio/css/style.css",
+		"/C/wamp64/www/projetportfolio/contactform.php",
+		"/C/wamp64/www/projetportfolio/myskills.php",
+		"/C/wamp64/www/projetportfolio/mytraining.php",
+		"/C/wamp64/www/projetportfolio/index.php",
+		"/C/Users/UTILISATEUR/Documents/index.php",
+		"/C/wamp64/www/projetportfolio/mytaining.php",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/jamielee/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/jamielee/jamielee.html",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/chocallier/chocallier.html",
+		"/C/wamp64/www/projetportfolio/script.js",
+		"/C/wamp64/www/projetportfolio/style.css",
+		"/C/wamp64/www/projetportfolio/css",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/jerome.html",
+		"/C/wamp64/www/transfertp/transfer/public/js/progressbar.js",
+		"/C/wamp64/www/transfertp/transfer/resources/views/welcome.blade.php",
+		"/C/wamp64/www/transfertp/transfer/public/css/progressbar.css",
+		"/C/wamp64/www/transfertp/transfer/public/css/app.css",
+		"/C/wamp64/www/transfertp/transfer/public/js/app.js",
+		"/C/wamp64/www/transfertp/transfer/.env",
+		"/C/wamp64/www/transfer/public/css/app.css"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

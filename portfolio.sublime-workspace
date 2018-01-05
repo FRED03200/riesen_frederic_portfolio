@@ -1,0 +1,457 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"su",
+				"submit\t.submit()"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"before",
+				"beforeTransition"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"getE",
+				"getElementsByClassName"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"p",
+				"parseInt"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"m",
+				"mark\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 86.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/portfolio/app/Http/Controllers/ContactController.php",
+		"/C/wamp64/www/portfolio/resources/views/contactform.blade.php",
+		"/C/wamp64/www/portfolio/routes/web.php",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/WelcomeController.php",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/TrainingController.php",
+		"/C/wamp64/www/portfolio/app/TableMyAchievements.php",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/AchievementsController.php",
+		"/C/wamp64/www/portfolio/resources/views/myachievements.blade.php",
+		"/C/wamp64/www/portfolio/app/TableMySkills.php",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/SkillsController.php",
+		"/C/wamp64/www/portfolio/resources/views/myskills.blade.php",
+		"/C/wamp64/www/portfolio/resources/views/mytraining.blade.php",
+		"/C/wamp64/www/portfolio/app/TableTraining.php",
+		"/C/wamp64/www/portfolio/resources/views/template.blade.php",
+		"/C/wamp64/www/portfolio/resources/views/welcome.blade.php",
+		"/C/wamp64/www/portfolio/public/img/image_720.png",
+		"/C/wamp64/www/portfolio/public/img/Capture6.PNG",
+		"/C/wamp64/www/portfolio/public/img/Capture.PNG",
+		"/C/wamp64/www/portfolio/public/img/Capture2.PNG",
+		"/C/wamp64/www/portfolio/public/img/Capture3.PNG",
+		"/C/wamp64/www/portfolio/app/Http/Controllers/HomeController.php",
+		"/C/wamp64/www/portfolio/.env",
+		"/C/wamp64/www/portfolio/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/portfolio/storage/logs/laravel.log",
+		"/C/wamp64/www/portfolio/public/css/style.css",
+		"/C/wamp64/www/portfolio/resources/assets/sass/_variables.scss",
+		"/C/wamp64/www/portfolio/resources/assets/sass/app.scss",
+		"/C/wamp64/www/portfolio/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp64/www/projetportfolio/myachievements.php",
+		"/C/wamp64/www/projetportfolio/js/script.js",
+		"/C/wamp64/www/projetportfolio/css/style.css",
+		"/C/wamp64/www/projetportfolio/contactform.php",
+		"/C/wamp64/www/projetportfolio/myskills.php",
+		"/C/wamp64/www/projetportfolio/mytraining.php",
+		"/C/wamp64/www/projetportfolio/index.php",
+		"/C/Users/UTILISATEUR/Documents/index.php",
+		"/C/wamp64/www/projetportfolio/mytaining.php",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/jamielee/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/jamielee/jamielee.html",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/chocallier/chocallier.html",
+		"/C/wamp64/www/projetportfolio/script.js",
+		"/C/wamp64/www/projetportfolio/style.css",
+		"/C/wamp64/www/projetportfolio/css",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/css/style.css",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/jerome.html",
+		"/C/wamp64/www/transfertp/transfer/public/js/progressbar.js",
+		"/C/wamp64/www/transfertp/transfer/resources/views/welcome.blade.php",
+		"/C/wamp64/www/transfertp/transfer/public/css/progressbar.css",
+		"/C/wamp64/www/transfertp/transfer/public/css/app.css",
+		"/C/wamp64/www/transfertp/transfer/public/js/app.js",
+		"/C/wamp64/www/transfertp/transfer/.env",
+		"/C/wamp64/www/transfer/public/css/app.css",
+		"/C/wamp64/www/transfer/public/js/app.js",
+		"/C/wamp64/www/transfer/public/css/style.css",
+		"/C/wamp64/www/transfer/resources/views/welcome.blade.php",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/java2/css/style.css",
+		"/C/wamp64/www/transfer/img.jpg/chat.jpg",
+		"/C/wamp64/www/transfer/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/transfer/routes/web.php",
+		"/C/wamp64/www/transfer/.env",
+		"/C/wamp64/www/transfer/transfer",
+		"/C/Users/UTILISATEUR/Documents/fichier.csv",
+		"/C/wamp64/www/laravel/portfolio/.env",
+		"/C/wamp64/www/laravel/portfolio/app/Http/Controllers/FrontHomeController.php",
+		"/C/wamp64/www/laravel/portfolio/routes/web.php",
+		"/C/wamp64/www/laravel/portfolio/app/Http/Controllers/Controller.php",
+		"/C/wamp64/www/laravel/portfolio/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/presse.php",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/envoie.php",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/contact.php",
+		"/C/wamp64/www/projetgroupe/admin/connection.php",
+		"/C/wamp64/www/projetgroupe/admin/deconnection.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs2/admin/controler/control-admin-user.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs2/admin/view/view-connexion.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs2/index.php",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Rar$DIa6548.43791/index.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/admin/controler/control-admin-user.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/admin/index.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/admin/view/view-connexion.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/admin/model/model-admin-user.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/index.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/admin/controler/control-article.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/admin/model/model-article.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/admin/controler/control-category.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/style.css",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/public/view/footer.inc.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/css/style.css",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/control-admin-user.php",
+		"/C/wamp64/www/bloggroupe/mini-blog-acs/footer.php",
+		"/C/wamp64/www/bloggroupe/index.php",
+		"/C/wamp64/www/bloggroupe/verif.php",
+		"/C/wamp64/www/bloggroupe/style.css",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Rar$DIa8380.23925/listedesmails.php",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Rar$DIa8380.22642/formulaire.php",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Rar$DIa8380.21636/index.php",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Rar$DIa8772.1316/index.php",
+		"/C/wamp64/www/projetgroupe/admin/indexaff.php",
+		"/C/wamp64/www/projetgroupe/admin/index.php",
+		"/C/wamp64/www/projetgroupe/admin/delete.php",
+		"/C/wamp64/www/projetgroupe/admin/js/admin.js",
+		"/C/wamp64/www/projetgroupe/js/script.js",
+		"/C/wamp64/www/projetgroupe/js/jquery.vide.min.js",
+		"/C/wamp64/www/projetgroupe/admin/modifier.php",
+		"/C/wamp64/www/projetgroupe/verif.php",
+		"/C/wamp64/www/projetgroupe/testbdd.php",
+		"/C/wamp64/www/projetgroupe/js/glide.min.js",
+		"/C/wamp64/www/projetgroupe/js/bootstrap.min.js",
+		"/C/wamp64/www/projetgroupe/js/bootstrap.js",
+		"/C/wamp64/www/projetgroupe/js/npm.js",
+		"/C/wamp64/www/projetgroupe/index.php",
+		"/C/wamp64/www/projetgroupe/css/bootstrap.min.css",
+		"/C/wamp64/www/projetgroupe/css/bootstrap.min.css.map",
+		"/C/wamp64/www/projetgroupe/css/glide.core.min.css",
+		"/C/wamp64/www/projetgroupe/fonts/glyphicons-halflings-regular.eot",
+		"/C/wamp64/www/projetgroupe/fonts/glyphicons-halflings-regular.woff2",
+		"/C/wamp64/www/projetgroupe/fonts/glyphicons-halflings-regular.woff",
+		"/C/wamp64/www/projetgroupe/fonts/glyphicons-halflings-regular.ttf",
+		"/C/wamp64/www/projetgroupe/fonts/glyphicons-halflings-regular.svg",
+		"/C/wamp64/www/projetgroupe/.gitattributes",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Temp1_ProjetGroupe-master.zip/ProjetGroupe-master/verif.php",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Temp1_ProjetGroupe-master.zip/ProjetGroupe-master/index.php",
+		"/C/Users/UTILISATEUR/AppData/Local/Temp/Temp1_ProjetGroupe-master.zip/ProjetGroupe-master/data/image.csv",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/js/script.js",
+		"/C/Users/UTILISATEUR/Documents/Mes fichiers reçus/PERSO/parcours.php",
+		"/C/wamp64/www/projetgroupe/groupe.php",
+		"/C/wamp64/www/projetgroupe/css/style.css",
+		"/C/wamp64/www/projetgroupe/data/image.csv",
+		"/C/Users/UTILISATEUR/Documents/TRAVAIL/html/groupe/groupe.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"C:\\wamp64\\www\\bloggroupe\\mini-blog-acs\\admin",
+			"C:\\wamp64\\www\\projet1\\style.css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \">",
+			"    \n",
+			";\n",
+			"    \n",
+			"/\n",
+			"PDO",
+			"p",
+			"glide__wrapper",
+			"glide__track",
+			"}",
+			"}\n",
+			";\n",
+			"affiche",
+			"fieldset",
+			"document",
+			"?>",
+			" \n",
+			"\">\n",
+			"\n",
+			"checked",
+			"nombrealeatoire",
+			"{\n",
+			";\n",
+			"}\n",
+			"aliquip",
+			"}",
+			";\n",
+			"%;\n",
+			";\n",
+			" \n",
+			";\n",
+			">\n",
+			"0",
+			"HTLM"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"HTML"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
