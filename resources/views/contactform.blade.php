@@ -43,5 +43,6 @@
   </div>
   
 </main>
+<script src="{{url('/js/script.js')}}"></script>
 
 @endsection

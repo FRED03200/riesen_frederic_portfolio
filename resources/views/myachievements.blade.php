@@ -10,7 +10,7 @@
      @else
       <div class="carousel-item ">
       @endif
-    <p>Titre du projet: {{$projet->title}}</p>
+    <p><br>Titre du projet: {{$projet->title}}</p>
     <p>Date de création: {{Carbon\Carbon::parse($projet->date_creation)->format('d-m-Y')}}</p>
       <img class="d-block w-100" src="img/{{$projet->image}}" alt="{{$projet->title}}" width="100%" height="80%">
     <p>{{$projet->descriptive}}</p>

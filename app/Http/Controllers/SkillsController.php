@@ -5,7 +5,7 @@ use App\TableMySkills;
 class SkillsController extends Controller
 {
     public function competences(){
-        $liste= TableMySkills::all();
+        $liste= TableMySkills::orderBy('created_at', 'DESC')->get();
         return View('myskills',compact('liste')); 
     }
 }

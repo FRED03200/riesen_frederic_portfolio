@@ -7,39 +7,47 @@ html, body
 
 body 
 {    
-    background-image:url(../img/portfolio.jpg);
+    background-image:url(../img/images.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
-    
+  
 }
-
 h1
 {
     font-family:'Slabo 27px';
     text-align: center;
-    color: #195BDD;
+    color:white;
     font-size: 46px;
-    background-color: #F6EFEF;
     opacity: 0.7;
-
+    margin-top: 30px;
 }
 
-.blanc
+.circle
 {
-    background-color:#F6EFEF;
-    /*margin-right: 351px;
-    margin-left:351px; */
-    opacity: 0.7; 
- }
 
+        /*margin:30px;
+        width: 400px;*/
+        background: #FF0000;
+       /* height: 100px;
+        text-align: center;
+        margin-left: 60px;*/
+} 
+.bleu{
+    text-align: center;
+    /*vertical-align: middle;*/
+}
+.jaune
+{
+    margin-bottom: 40px;
+}
 h2
 {
     font-family:'Slabo 27px';
     text-align: center;
-    color:#2D49F3;
+    color:white;
     font-size: 30px;
-    font-weight: bold;
+   
  }
 
 
@@ -50,15 +58,17 @@ li
     font-size: 18px;
     font-family:'Slabo 27px';
     text-align: center;
-
 }
 
+.vert
+{
+    margin-left: 150px;
+}
 .rouge
 {
-    background-color: #F6EFEF;
+    background-color:#F6EFEF ;
     margin: auto;
     text-align: center;
-    opacity: 0.7;  
 }
 
 a
@@ -72,27 +82,42 @@ a
 main 
 {
      width: 60%;
-     height: 2%;
-     background-color:#E2DDDD;
-     text-align: left;
+     height: 52%;
+     text-align: center;
      font-size: 18px;
      margin: auto;
-     opacity:0.9;   
-}
+    background-color:#ACABAB ;
+    margin-top: 30px;
+    opacity: 0.9;
 
+       
+}
+.violet p
+{
+    font-size: 55px;
+    color: white;
+}
 p
 {
     margin-left: 30px;
     font-family:'Slabo 27px';
-    color:#2D49F3;
+    color:#220234;
     font-size: 25px;
+
 }
 
 footer
 {
     margin-left: 185px;
+    margin-top: 70px;
+    
 }
-
+.marron p
+{
+    text-align: center;
+    color: white;
+}
+ 
 .red
 {
     color:red;
@@ -107,6 +132,7 @@ footer
 .btn-primary
 {
     float: right;
+
 }
 
 .vert p
@@ -115,4 +141,10 @@ footer
     font-size: 38px;
     font-family:'Slabo 27px';
     font-weight: bold;  
+}
+
+@media screen and (max-width: 640px) {
+  .jaune {
+    width: 80%;
+  }
 }

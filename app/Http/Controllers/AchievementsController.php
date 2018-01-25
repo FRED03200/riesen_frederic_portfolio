@@ -7,8 +7,8 @@ use App\TableMyAchievements;
 class AchievementsController extends Controller
 {
     public function realisations(){
-        $liste= TableMyAchievements::all();
+        $liste= TableMyAchievements::orderBy('date_creation', 'DESC')->get();
         return View('myachievements',compact('liste')); 
     }
 }
-?>
+?> 
